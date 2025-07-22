@@ -1,0 +1,3 @@
+PC: vagrant
+Modelo CPU:  AMD Ryzen 5 7530U with Radeon Graphics
+IP: 10.0.2.15
