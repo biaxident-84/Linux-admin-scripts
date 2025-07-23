@@ -1,23 +1,24 @@
 # Linux Admin Scripts
 
-Colección de scripts Bash útiles para tareas básicas de administración de sistemas GNU/Linux. Pensado como práctica inicial para automatización y scripting.
+Este repositorio contiene una serie de scripts Bash desarrollados como práctica para tareas básicas de administración de sistemas en Linux.
 
-# Scripts incluidos
+# Contenido
 
-- `generar_info_pc.sh`: Genera un resumen con el nombre del equipo, modelo de CPU e IP.
-
-(Próximamente más scripts como monitoreo, backups y limpieza de logs)
+- `monitoreo_memoria.sh`: muestra el uso actual de la memoria RAM.
+- `procesos_pesados.sh`: lista los procesos que consumen más recursos (CPU y memoria).
+- `menu.sh`: script integrador que permite ejecutar los anteriores desde un menú interactivo.
 
 # Requisitos
 
-- GNU/Linux
-- Bash
-- Comandos estándar: `hostname`, `awk`, `grep`, `cut`, `df`, etc.
+- Sistema operativo Linux (probado en distribuciones basadas en Debian).
+- Intérprete de comandos Bash.
+- Permisos de ejecución sobre los scripts.
 
-# Cómo usarlo
+# Cómo usar
 
-Dar permisos de ejecución:
+1. Clonar el repositorio:
 
-```bash
-chmod +x scripts/*.sh
+   ```bash
+   git clone https://github.com/biaxident-84/Linux-admin-scripts.git
+   cd Linux-admin-scripts/scripts
 
