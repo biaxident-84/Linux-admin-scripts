@@ -1,0 +1,13 @@
+===== MONITOREO DE MEMORIA RAM =====
+Fecha y Hora: Wed Jul 23 01:25:49 UTC 2025
+-----------------------------------
+Uso general de memoria:
+
+Top 5 procesos por uso de memoria:
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root       667  0.0  1.6 170440 17108 ?        Ssl  Jul22   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root     14500  0.0  0.9  78324  9212 ?        S<s  00:57   0:00 /lib/systemd/systemd-journald
+root         1  0.0  0.8 159576  8916 ?        Ss   Jul22   0:03 /sbin/init
+vagrant   1581  0.0  0.7  76636  7540 ?        Ss   Jul22   0:00 /lib/systemd/systemd --user
+root       727  0.0  0.7 291452  7384 ?        Ssl  Jul22   0:00 /usr/lib/policykit-1/polkitd --no-debug
+

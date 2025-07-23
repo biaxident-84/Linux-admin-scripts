@@ -1,5 +1,5 @@
-=== Uso de CPU: Tue Jul 22 02:19:22 UTC 2025 ===
-%Cpu(s):  0.1 us,  0.3 sy,  0.0 ni, 99.2 id,  0.1 wa,  0.0 hi,  0.2 si,  0.0 st
+=== Uso de CPU: Wed Jul 23 01:25:35 UTC 2025 ===
+%Cpu(s):  0.1 us,  0.2 sy,  0.0 ni, 99.5 id,  0.1 wa,  0.0 hi,  0.1 si,  0.0 st
 
  === Top 5 procesos por uso de CPU ===
   PID COMMAND         %CPU

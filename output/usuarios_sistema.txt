@@ -1,0 +1,9 @@
+======= INFORME DE USUARIOS =======
+Fecha de generación: Wed Jul 23 01:21:02 UTC 2025
+
+Usuario: vagrant
+Último login: Tue Jul 22 22:08:22
+Conectado: Sí
+Directorio home: /home/vagrant
+Shell: /bin/bash
+----------------------------------

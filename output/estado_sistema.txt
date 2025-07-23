@@ -1,0 +1,29 @@
+================ SISTEMA ==================
+Fecha y hora: Wed Jul 23 01:18:18 UTC 2025
+Uptime: up 7 hours, 6 minutes
+Versión del SO:
+Ubuntu 18.04.3 LTS
+Hostname: vagrant
+Dirección IP: 10.0.2.15
+Procesos activos: 97
+
+=============== RECURSOS ==================
+Uso de CPU:
+%Cpu(s):  0.1 us,  0.2 sy,  0.0 ni, 99.5 id,  0.1 wa,  0.0 hi,  0.1 si,  0.0 st
+Uso de RAM:
+              total        used        free      shared  buff/cache   available
+Mem:           985M         70M        257M        5.3M        656M        765M
+Swap:          979M          0B        979M
+
+=============== DISCO =====================
+Filesystem                    Size  Used Avail Use% Mounted on
+/dev/mapper/vagrant--vg-root   62G  1.7G   57G   3% /
+
+=========== ÚLTIMOS LOGINS ===============
+vagrant  pts/0        10.0.2.2         Tue Jul 22 22:08   still logged in
+vagrant  pts/0        10.0.2.2         Mon Jul 21 22:44 - 02:38  (03:53)
+reboot   system boot  4.15.0-58-generi Mon Jul 21 22:44   still running
+reboot   system boot  4.15.0-58-generi Thu Aug 15 22:56 - 23:14  (00:17)
+reboot   system boot  4.15.0-55-generi Thu Aug 15 22:51 - 22:56  (00:05)
+
+wtmp begins Thu Aug 15 22:51:17 2019
